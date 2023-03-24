@@ -10,6 +10,8 @@ I received my PhD from Soochow University at Suzhou, China. My advisors were [Xi
 
 I am interested in transport phenomena (momentum, mass, and heat) in chemical engineering, e.g. porous media, bio-inspired system, and three-phase enzymatic reaction system. Typically, I model transport phenomena with computational fluid dynamics (CFD) and validate the models with clearly defined experiments.
 
+I focus on simple but unclear systems.
+
 ## Publication
 
 [Cite them in bibtex format](./bib_my_paper.bib)
