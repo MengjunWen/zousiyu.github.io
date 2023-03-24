@@ -8,6 +8,8 @@ Email: [zousiyu1995@outlook.com](mailto://zousiyu1995@outlook.com)
 
 I received my PhD from Soochow University at Suzhou, China. My advisors were [Xiao Dong Chen](https://scholar.google.com/citations?user=fg3sXKwAAAAJ&hl=zh-CN) and [Jie Xiao](https://scholar.google.com/citations?user=lKpqfmkAAAAJ&hl=zh-CN).
 
+I am interested in transport phenomena (momentum, mass, and heat) in chemical engineering, e.g. porous media, bio-inspired system, and three-phase enzymatic reaction system. Typically, I model transport phenomena with computational fluid dynamics (CFD) and validate the models with clearly defined experiments.
+
 ## Publication
 
 [Cite them in bibtex format](./bib_my_paper.bib)
