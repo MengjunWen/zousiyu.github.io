@@ -4,6 +4,10 @@ College of Chemistry, Chemical Engineering and Materials Science, Soochow Univer
 
 Email: zousiyu1995@outlook.com
 
+## Personal information
+
+I received my PhD from Soochow University at Suzhou, China. My advisors were [Xiao Dong Chen](https://scholar.google.com/citations?user=fg3sXKwAAAAJ&hl=zh-CN) and [Jie Xiao](https://scholar.google.com/citations?user=lKpqfmkAAAAJ&hl=zh-CN). My dissertation defense was on May 5th, 2016.
+
 ## Publication
 
 1. **Zou, S.**; Wang, D.; Xiao, J.; Feng, X. Mathematical Model for a Three-Phase Enzymatic Reaction System. *Industrial & Engineering Chemistry Research* 2023, 62 (10), 4337–4343. <https://doi.org/10.1021/acs.iecr.2c04492>. [[PDF]](./Zou2023%20-%20Mathematical%20Model%20for%20a%20Three%20Phase%20Enzymatic%20Reaction%20System.pdf)
