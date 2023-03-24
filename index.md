@@ -6,7 +6,7 @@ Email: [zousiyu1995@outlook.com](mailto://zousiyu1995@outlook.com)
 
 ## Personal information
 
-I received my PhD from Soochow University at Suzhou, China. My advisors were [Xiao Dong Chen](https://scholar.google.com/citations?user=fg3sXKwAAAAJ&hl=zh-CN) and [Jie Xiao](https://scholar.google.com/citations?user=lKpqfmkAAAAJ&hl=zh-CN). My dissertation defense was on May 5th, 2016.
+I received my PhD from Soochow University at Suzhou, China. My advisors were [Xiao Dong Chen](https://scholar.google.com/citations?user=fg3sXKwAAAAJ&hl=zh-CN) and [Jie Xiao](https://scholar.google.com/citations?user=lKpqfmkAAAAJ&hl=zh-CN).
 
 ## Publication
 
